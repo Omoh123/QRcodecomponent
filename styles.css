@@ -21,8 +21,8 @@ main{
 }
 .container{
        margin:100px auto;
-       width:auto;
-       padding:0 300px 0 300px;
+       width:50%;
+       padding:0;
         text-align: center;
 }
 
