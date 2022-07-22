@@ -21,6 +21,7 @@ main{
 }
 .container{
        margin:100px auto;
+       width:auto;
        padding:0 300px 0 300px;
         text-align: center;
 }
@@ -29,8 +30,8 @@ main{
         margin:0 auto;
         margin-bottom: 50px;
         padding:12px;
-        width:40%;
-        min-width: auto;
+        width:50%;
+        max-width: auto;
         border-radius: 8px;
         height:auto;
         background-color: hsl(0, 0%, 100%);
